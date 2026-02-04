@@ -1,0 +1,7 @@
+name: cs197lec2
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - conda-forge::tqdm
+prefix: C:\user\envs\cs197lec2
